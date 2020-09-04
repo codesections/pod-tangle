@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/codesections/pod-tangle/workflows/test/badge.svg)](https://github.com/codesections/pod-tangle/actions)
+
 NAME
 ====
 
@@ -5,6 +7,12 @@ Pod::Tangle - Tangle code from Raku source
 
 SYNOPSIS
 ========
+
+Installation (assuming you already have [Raku](ttps://raku.org/downloads) and [zef](https://github.com/ugexe/zef) installed):
+
+```sh
+zef install Pod::Tangle
+```
 
 You can use Pod::Tangle as a library:
 
