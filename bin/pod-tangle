@@ -1,0 +1,5 @@
+#!/usr/bin/env raku
+use Pod::Tangle;
+
+#| Strip all Pod documentation from a Raku source file
+sub MAIN($file) { tangle($file.IO).print() }
