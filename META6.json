@@ -1,5 +1,5 @@
 {
-  "auth" : "github:codesections",
+  "auth" : "cpan:CODESECTS",
   "authors" : [
     "Daniel Sockwell"
   ],
@@ -27,5 +27,5 @@
     "documentation"
   ],
   "test-depends" : [ ],
-  "version" : "0.0.1"
+  "version" : "0.0.2"
 }
